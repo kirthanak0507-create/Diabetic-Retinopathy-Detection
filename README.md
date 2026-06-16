@@ -33,6 +33,8 @@ EfficientNetB0
 - OpenCV
 - NumPy
 - Pandas
+- Model file not included due to size limitations.
+Train the model using the provided notebook.
 - Streamlit
 
 ## Future Improvements
