@@ -35,6 +35,10 @@ EfficientNetB0
 - Pandas
 - Model file not included due to size limitations.
 Train the model using the provided notebook.
+## Live Demo
+
+Hugging Face Space:
+https://huggingface.co/spaces/kirthana1805/diabetic-retinopathy-detector
 - Streamlit
 
 ## Future Improvements
