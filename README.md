@@ -39,6 +39,19 @@ Train the model using the provided notebook.
 
 Hugging Face Space:
 https://huggingface.co/spaces/kirthana1805/diabetic-retinopathy-detector
+## Application Screenshots
+
+### Home Page
+
+![Home Page](homepage.png)
+
+### Upload Image
+
+![Upload](upload_page.png)
+
+### Prediction Result
+
+![Prediction](prediction.png)
 
 
 ## Future Improvements
