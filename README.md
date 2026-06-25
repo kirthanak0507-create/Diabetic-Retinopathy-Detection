@@ -39,7 +39,7 @@ Train the model using the provided notebook.
 
 Hugging Face Space:
 https://huggingface.co/spaces/kirthana1805/diabetic-retinopathy-detector
-- Streamlit
+
 
 ## Future Improvements
 
